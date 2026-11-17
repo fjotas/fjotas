@@ -1,33 +1,54 @@
-## Hi there 👋 I'm fjotas
-I'm an intermediate-level developer who is always learning and testing new technologies.
 
-Currently, I'm learning "vibecoding," cybersecurity, design, and programming.
+<div align="center">
+
+# Hi there 👋 I'm fjotas
+
+**Developer · Designer · Tech Enthusiast**
+
+Always experimenting, building projects and exploring new technologies.
+
+Currently exploring **Vibe Coding, Cybersecurity, UI/UX Design and Software Development.**
+
+</div>
 
 ---
 
-## Languages & Technologies
+## 💻 Programming & Development
 
-### Main
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,rust,postman,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,rust,java,ts,js,python&theme=dark" />
 </p>
 
-### Design
+## 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react&theme=dark" />
+</p>
+
+## 🎨 Design & Creative Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=ae,ps,pr&theme=dark" />
 </p>
 
-<!--
-**fjotas/fjotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tools & Environment
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,vscode,idea,postman&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 AI-Assisted Development
+
+<p>
+  <img src="./assets/opencode.svg" width="40" alt="OpenCode" />
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fjotas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjotas&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
