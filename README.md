@@ -1,8 +1,7 @@
-![Waving hand](./assets/1f44b.gif)
-
 <div align="center">
-
-# Hi there 👋 I'm fjotas
+<img src="./assets/1f44b.gif" width="64" height="64" />
+  
+# Hi there, I'm fjotas
 
 **Developer · Designer · Tech Enthusiast**
 
