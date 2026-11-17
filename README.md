@@ -1,3 +1,4 @@
+![Waving hand](./assets/1f44b.gif)
 
 <div align="center">
 
@@ -42,13 +43,3 @@ Currently exploring **Vibe Coding, Cybersecurity, UI/UX Design and Software Deve
 <p>
   <img src="./assets/opencode.svg" width="40" alt="OpenCode" />
 </p>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fjotas&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjotas&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
